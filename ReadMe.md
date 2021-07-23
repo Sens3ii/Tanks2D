@@ -2,7 +2,7 @@
 ## Description:
 This repository was created for the final project on [Principles of programming
 2](https://github.com/askarakshabayev/PP2_2020) at KBTU University in 2020. 
-Final project is multiplayer tanks game. Game have 3 modes, 1 
+Final project is multiplayer tanks game.
 Game is written on python, on pygame library. For server side used RabbitMQ. Also, the project has artificial intelligence for multiplayer.
 [Grading criterias](https://docs.google.com/spreadsheets/d/1arVKbj1urECzigbPIDrn9SylfFvIR0i5EvEBVe6ijjM/edit#gid=0)
 #### Menu:
